@@ -37,7 +37,7 @@ app.get("/events" , async (req , res) => {
         res.status(404).json({error: "Events not found"})
       }
   }catch(error){
-    res.status(500).json({error: "Failed to fetch Events.",error: error.message})
+    res.status(500).json({error: "Failed to fetch Events."})
   }
 })
 
