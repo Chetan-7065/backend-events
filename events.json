@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Web Development Bootcamp 2024",
+    "address": "Tech Hub Building, Sector 62, Noida",
+    "price": 1500,
+    "startTime": "10:00",
+    "endTime": "17:00",
+    "date": "2024-09-15",
+    "tags": "Educational",
+    "mode": "Both",
+    "description": "Comprehensive 2-day bootcamp covering MERN stack, API development, and deployment strategies for beginners to advanced learners",
+    "speakers": "Dr. Amit Sharma, Prof. Neha Gupta, Industry Expert Raj Mehta",
+    "requirements": "Laptop with Node.js installed, basic programming knowledge",
+    "photos": [
+      "https://example.com/webdev1.jpg",
+      "https://example.com/bootcamp2.jpg",
+      "https://example.com/workshop3.jpg"
+    ]
+  },
+  {
+    "title": "Virtual AI & Machine Learning Summit",
+    "address": "Online Event",
+    "price": 800,
+    "startTime": "11:00",
+    "endTime": "16:00",
+    "date": "2024-09-22",
+    "tags": "Educational",
+    "mode": "Online",
+    "description": "Live online summit on artificial intelligence and machine learning with interactive Q&A sessions",
+    "speakers": "Dr. Priya Singh, Mr. Sameer Khan (Data Scientist), AI Researcher Dr. Kumar",
+    "requirements": "Stable internet connection, Zoom application",
+    "photos": [
+      "https://example.com/ai1.jpg",
+      "https://example.com/ml2.jpg",
+      "https://example.com/virtual3.jpg"
+    ]
+  },
+  {
+    "title": "Corporate Cricket Championship",
+    "address": "Nehru Stadium, Lodhi Road, New Delhi",
+    "price": 300,
+    "startTime": "08:00",
+    "endTime": "19:00",
+    "date": "2024-09-25",
+    "tags": "Sports",
+    "mode": "Offline",
+    "description": "Annual corporate cricket tournament featuring teams from top IT companies with trophies and networking opportunities",
+    "speakers": "none",
+    "requirements": "Company ID, sports attire, team registration",
+    "photos": [
+      "https://example.com/cricket1.jpg",
+      "https://example.com/stadium2.jpg",
+      "https://example.com/teams3.jpg"
+    ]
+  },
+  {
+    "title": "Startup Investors Summit",
+    "address": "Taj Palace Hotel, Diplomatic Enclave, New Delhi",
+    "price": 2500,
+    "startTime": "09:00",
+    "endTime": "18:00",
+    "date": "2024-09-28",
+    "tags": "Business",
+    "mode": "Both",
+    "description": "Connect with angel investors and venture capitalists. Pitch your startup and explore funding opportunities",
+    "speakers": "Anil Aggarwal (VC Partner), Priya Mehta (Angel Investor), Rajiv Khanna (Startup Mentor)",
+    "requirements": "Business cards, startup pitch deck",
+    "photos": [
+      "https://example.com/investors1.jpg",
+      "https://example.com/startup2.jpg",
+      "https://example.com/networking3.jpg"
+    ]
+  },
+  {
+    "title": "Online Digital Marketing Masterclass",
+    "address": "Virtual Event - Live Streaming",
+    "price": 1200,
+    "startTime": "14:00",
+    "endTime": "18:00",
+    "date": "2024-09-18",
+    "tags": "Professional",
+    "mode": "Online",
+    "description": "Live online masterclass on digital marketing strategies, SEO, and social media marketing with practical assignments",
+    "speakers": "Digital Marketing Guru Sameer, SEO Expert Anjali",
+    "requirements": "Laptop with internet, notebook for taking notes",
+    "photos": [
+      "https://example.com/digital1.jpg",
+      "https://example.com/online2.jpg",
+      "https://example.com/masterclass3.jpg"
+    ]
+  },
+  {
+    "title": "Freshers Welcome Party",
+    "address": "College Auditorium, Delhi University North Campus",
+    "price": 0,
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "date": "2024-08-20",
+    "tags": "Social Gathering",
+    "mode": "Offline",
+    "description": "Welcome party for first year students with music, dance, games and cultural performances",
+    "speakers": "none",
+    "requirements": "College ID, enthusiasm",
+    "photos": [
+      "https://example.com/freshers1.jpg",
+      "https://example.com/party2.jpg",
+      "https://example.com/students3.jpg"
+    ]
+  },
+  {
+    "title": "Virtual Career Fair 2024",
+    "address": "Online Platform - CareerConnect",
+    "price": 0,
+    "startTime": "10:00",
+    "endTime": "17:00",
+    "date": "2024-10-05",
+    "tags": "Professional",
+    "mode": "Online",
+    "description": "Online career fair connecting job seekers with top companies through virtual booths and video interviews",
+    "speakers": "HR Managers from Google, Microsoft, Amazon",
+    "requirements": "Updated resume, webcam, stable internet connection",
+    "photos": [
+      "https://example.com/career1.jpg",
+      "https://example.com/virtual2.jpg",
+      "https://example.com/jobfair3.jpg"
+    ]
+  },
+  {
+    "title": "Contemporary Art Exhibition",
+    "address": "National Gallery of Modern Art, Jaipur House, Delhi",
+    "price": 200,
+    "startTime": "11:00",
+    "endTime": "19:00",
+    "date": "2024-09-20",
+    "tags": "Arts",
+    "mode": "Offline",
+    "description": "Exhibition of contemporary Indian art featuring works from emerging and established artists",
+    "speakers": "Curator Dr. Anjali Mehta, Artist Rahul Verma",
+    "requirements": "Art appreciation, no flash photography",
+    "photos": [
+      "https://example.com/art1.jpg",
+      "https://example.com/gallery2.jpg",
+      "https://example.com/paintings3.jpg"
+    ]
+  },
+  {
+    "title": "Online Yoga & Meditation Session",
+    "address": "Virtual Studio - Zoom Meeting",
+    "price": 100,
+    "startTime": "07:00",
+    "endTime": "08:30",
+    "date": "2024-09-16",
+    "tags": "Sports",
+    "mode": "Online",
+    "description": "Daily online yoga and meditation sessions for mental and physical wellness with certified instructors",
+    "speakers": "Yoga Instructor Priya Sharma, Meditation Guide Rohan Kumar",
+    "requirements": "Yoga mat, comfortable clothes, quiet space",
+    "photos": [
+      "https://example.com/yoga1.jpg",
+      "https://example.com/meditation2.jpg",
+      "https://example.com/virtual3.jpg"
+    ]
+  },
+  {
+    "title": "Bollywood Night Live Concert",
+    "address": "Jawaharlal Nehru Stadium, Delhi",
+    "price": 1500,
+    "startTime": "19:00",
+    "endTime": "22:30",
+    "date": "2024-10-15",
+    "tags": "Entertainment",
+    "mode": "Both",
+    "description": "Live concert featuring top Bollywood playback singers with full orchestra and spectacular light show. Also streamed online",
+    "speakers": "Singer Arijit Singh, Composer Vishal Dadlani",
+    "requirements": "E-ticket, age 16+",
+    "photos": [
+      "https://example.com/concert1.jpg",
+      "https://example.com/bollywood2.jpg",
+      "https://example.com/music3.jpg"
+    ]
+  },
+  {
+    "title": "Virtual Book Club Meeting",
+    "address": "Online - Google Meet",
+    "price": 0,
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "date": "2024-09-30",
+    "tags": "Social Gathering",
+    "mode": "Online",
+    "description": "Monthly virtual book club meeting discussing contemporary literature with authors and fellow readers",
+    "speakers": "Author Meera Joshi, Literary Critic Dr. Anand",
+    "requirements": "Read the selected book, webcam for discussion",
+    "photos": [
+      "https://example.com/bookclub1.jpg",
+      "https://example.com/virtual2.jpg",
+      "https://example.com/discussion3.jpg"
+    ]
+  },
+  {
+    "title": "Hybrid Tech Conference 2024",
+    "address": "Convention Center & Online Streaming",
+    "price": 1800,
+    "startTime": "09:30",
+    "endTime": "17:30",
+    "date": "2024-10-12",
+    "tags": "Professional",
+    "mode": "Both",
+    "description": "Annual technology conference covering latest trends in AI, blockchain, and cloud computing with both physical and virtual attendance options",
+    "speakers": "Tech Leaders from Infosys, TCS, Wipro",
+    "requirements": "Laptop for virtual attendees, business casual for offline",
+    "photos": [
+      "https://example.com/techconf1.jpg",
+      "https://example.com/hybrid2.jpg",
+      "https://example.com/speakers3.jpg"
+    ]
+  }
+]
