@@ -113,6 +113,17 @@ app.get("/events/tags/:tags", async (req, res) => {
   }
 })
 
+app.get("/test", (req, res) => {
+  res.json({
+    status: "API is working",
+    timestamp: new Date().toISOString(),
+    vercel: {
+      region: process.env.VERCEL_REGION,
+      url: process.env.VERCEL_URL
+    }
+  });
+});
+
 const PORT = process.env.PORT || 3000
 
 app.listen(PORT, () => {
