@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
 })
 
 
-async function readAllEvents (){
+async function readAllEvents(){
   try{
     const allBooks = await Events.find()
     return(allBooks)
