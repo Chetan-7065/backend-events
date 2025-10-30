@@ -124,6 +124,27 @@ app.get("/test", (req, res) => {
   });
 });
 
+app.get("/test-db", async (req, res) => {
+  try {
+    const client = await pool.connect();
+    const result = await client.query('SELECT version()');
+    client.release();
+    
+    res.json({
+      database: "Connected",
+      version: result.rows[0].version,
+      region: process.env.VERCEL_REGION
+    });
+  } catch (error) {
+    res.status(500).json({
+      database: "Connection failed",
+      error: error.message,
+      code: error.code,
+      region: process.env.VERCEL_REGION
+    });
+  }
+});
+
 const PORT = process.env.PORT || 3000
 
 app.listen(PORT, () => {
